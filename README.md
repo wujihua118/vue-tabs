@@ -1,6 +1,6 @@
 # vue-tabs
 
-> A Vue.js project
+> Vue.js 封装的导航栏 
 
 ## Build Setup
 
